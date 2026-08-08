@@ -16,8 +16,8 @@ Currently expanding my expertise in **Full Stack QA**, building automation frame
 
 A modern Python API automation framework demonstrating clean architecture and engineering best practices.
 
-[![API Framework](https://shields.io)](https://github.com)
-[![Live Allure Report](https://shields.io)](https://github.io)
+[![API Framework](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaksandr-stanavy/api-test-automation-framework)
+[![Live Allure Report](https://img.shields.io/badge/Live_Allure_Report-View-43B02A?style=for-the-badge)](https://aliaksandr-stanavy.github.io/api-test-automation-framework/)
 
 **Highlights**
 
@@ -32,10 +32,10 @@ A modern Python API automation framework demonstrating clean architecture and en
 - ✅ Static typing (mypy + TypedDict)
 
 **Repository**  
-👉 https://github.com
+👉 https://github.com/aliaksandr-stanavy/api-test-automation-framework
 
 **Live Allure Report**  
-👉 https://github.io
+👉 https://aliaksandr-stanavy.github.io/api-test-automation-framework/
 
 ---
 
@@ -53,7 +53,7 @@ Modern UI automation framework built with:
 - GitHub Actions
 
 **Repository**  
-👉 https://github.com
+👉 https://github.com/aliaksandr-stanavy/playwright-ui-tests
 
 ---
 
@@ -71,7 +71,7 @@ Classic Selenium automation framework demonstrating:
 - CI integration
 
 **Repository**  
-👉 https://github.com
+👉 https://github.com/aliaksandr-stanavy/test_ui_project
 
 ---
 
@@ -136,23 +136,22 @@ Jira • Confluence • TestRail • Charles Proxy • TestFlight
 
 | GitHub General Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub Stats](https://vercel.app) | ![Top Languages](https://vercel.app) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaksandr-stanavy&show_icons=true&theme=visual_studio_code) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaksandr-stanavy&layout=compact&theme=visual_studio_code) |
 
 ### 🔥 Contribution Streak
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
+
+[![GitHub Streak](https://streak-stats.herokuapp.com?user=aliaksandr-stanavy&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Telegram](https://shields.io)](https://t.me)
-[![Email](https://shields.io)](mailto:aliaksandr.stanavy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliaksandr-stanavy)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeafClover4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliaksandr.stanavy@gmail.com)
 
 ---
 
-![Visitors](https://visitorbadge.io)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=aliaksandr-stanavy&label=Visitors&countColor=%23263759)
 
 > *"Continuous learning, clean automation, and quality engineering."*
